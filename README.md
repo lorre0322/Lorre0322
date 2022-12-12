@@ -6,7 +6,7 @@ I am a front-end developer from China
 - 🌱 I’m currently learning front-end engineering and nodejs
 - ❤️ I like sleeping 🛌 and watching movie 📺 
 - 💬 if you have some questions ask me [here](https://lorre0322.github.io/).
-- 💴 The current goal is to earn money 💴 to support the family 💕
+- 💴 The current goal is to earn money 💕
 
 # 🌿my Technology Stack
 <img align='middle' src='https://anya.215213344.xyz/?text=JavaScript&bgcolor1=f7df37&bgcolor2=f7df37&color=333&img=https://i.imgur.com/de9PXVn.jpg'></img>
